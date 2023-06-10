@@ -1,0 +1,56 @@
+.bg {
+  background-image: url("../CSS/img/bg.jpg");
+  width: 1300px;
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 5px auto;
+}
+button {
+  margin: 15px auto;
+  background-color: #f8a646;
+  color: #182837;
+  font-size: 18px;
+  border-radius: 32px;
+  position: absolute;
+  margin-left: 205px;
+  margin-top: 550px;
+  width: 120px;
+  text-align: center;
+  border: none;
+  height: 32px;
+}
+h2 {
+  margin: 0;
+  background-color: black;
+  color: white;
+  display: none;
+}
+.total {
+  padding-top: 15px;
+  height: 190px;
+  background-color: aliceblue;
+  font-size: 18px;
+  display: none;
+}
+.avg {
+  padding-top: 15px;
+  height: 40px;
+  background-color: aliceblue;
+  font-size: 18px;
+  display: none;
+}
+.grade {
+  padding-top: 15px;
+  height: 40px;
+  background-color: aliceblue;
+  font-size: 18px;
+  display: none;
+}
+.container {
+  position: absolute;
+  width: 285px;
+  margin-left: 281px;
+  margin-top: 200px;
+  text-align: center;
+}
